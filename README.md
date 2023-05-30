@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Entityframework é um projeto de aprendizado, objetivando compreender o desenvolvimento de aplicações com acesso a dados, utilizando o ORM Entityframework Core.
+Entityframework é um projeto de aprendizagem, objetivando compreender o desenvolvimento de aplicações com acesso a dados, utilizando o ORM Entityframework Core.
 
 ## 📚 Aprendizados
 
